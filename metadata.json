@@ -1,0 +1,6 @@
+{
+  "name": "Cleanfy Home Services - Professional Residential Cleaning",
+  "description": "Reliable, insured, and trusted home cleaning in Austin & Greater Central Texas. Get a free instant quote for house cleaning, deep cleaning, and move-in/out services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
